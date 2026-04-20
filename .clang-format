@@ -1,2 +1,4 @@
 BasedOnStyle: Google
 ReflowComments: false
+SortIncludes: true
+IncludeBlocks: Regroup
