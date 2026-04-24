@@ -2,7 +2,7 @@
 using namespace std;
 #include "Vehiculo.cpp"
 
-class Auto: public Vehiculo {
+class Auto : public Vehiculo {
   public:
     void iniciar() {
       cout << "brrrrum, auto arrancando" << "\n";
