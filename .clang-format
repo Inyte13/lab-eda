@@ -3,3 +3,5 @@ BasedOnStyle: Google
 SortIncludes: true
 # Agrupa los includes
 IncludeBlocks: Regroup
+# Los espacios entre bloques
+SeparateDefinitionBlocks: Always
